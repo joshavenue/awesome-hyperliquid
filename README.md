@@ -38,6 +38,7 @@
 - [VaultVision](https://vaultvision.tech/vaults/scanner) - Hyperliquid vault scanner with live risk-adjusted rankings, TVL, max drawdown, deposit status, entry quality, alerts, and crawlable vault detail pages.
 - [CryptoAnimon](https://cryptoanimon.com/en/?src=awesome) - Any Hyperliquid wallet's rounds marked to market, live liquidation maps, a free Daily, and Telegram alerts when a wallet trades.
 - [Hyperliquid Discipline Report](https://tradecopilot.app/hyperliquid-discipline-report) - Free behavioural report for any wallet, built from its public perp fills: revenge trading, tilt speed, sizing up after losses, letting losers run, overtrading and fee drag, all net of fees.
+- [Flowscan](https://www.flowscan.xyz/) - Free Hyperliquid explorer: protocol revenue, open positions and liquidations by market, builder-code revenue per app, HIP-3 perp DEXs, HIP-4 outcome markets and the gossip peer map.
 
 
 - [WatchCrypto](https://watchcrypto.io/exchanges/hyperliquid) - Free chart-first trading terminal for every Hyperliquid perp: 1-second candles, full order book and trade tape, TP/SL on the chart, and a live funding-rate table for all perps.
